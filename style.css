@@ -173,6 +173,11 @@ a {
     margin: auto 0;
   }
 
+  .profile_pic_head {
+    border-radius: 50%;
+    overflow: hidden;
+
+  }
   .section_text {
     align-self: center;
     text-align: center;
